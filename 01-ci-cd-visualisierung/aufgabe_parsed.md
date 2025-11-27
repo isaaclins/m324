@@ -28,3 +28,4 @@ Erstellung einer grafischen Darstellung des automatisierten CI/CD-Prozesses, der
 - [ ] Das Diagramm zeigt Infrastrukturkomponenten (GitLab, AWS etc.).
 - [ ] `loesung.md` enthält eine Erläuterung der im Diagramm verwendeten Symbolik.
 - [ ] Die Lösung basiert auf dem im Dokument beschriebenen Java/AWS-Szenario.
+
